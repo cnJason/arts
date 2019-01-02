@@ -16,6 +16,7 @@
 
 ## 项目结构
 
+```
 algorithm/
   autotest              # 自动测试脚本
   template/             # 算法实现工程模版
@@ -30,3 +31,4 @@ algorithm/
 review/               # 英文阅读与翻译
 share/                # 读后感分享
 tip/                  # 算法和其他技术知识点总结
+```
